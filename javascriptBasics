@@ -1,6 +1,47 @@
+===============================================================
+JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour
+Programming with Mosh
+===============================================================
+JavaScript is one of the most popular programming languages in 2022. A lot of people are learning JavaScript to become front-end and/or back-end developers. 
+I've designed this JavaScript tutorial for beginners to learn JavaScript from scratch. We'll start off by answering the frequently asked questions by beginners about JavaScript and shortly after we'll set up our development environment and start coding. 
+Whether you're a beginner and want to learn to code, or you know any programming language and just want to learn JavaScript for web development, this tutorial helps you learn JavaScript fast. 
+You don't need any prior experience with JavaScript or any other programming languages. Just watch this JavaScript tutorial to the end and you'll be writing JavaScript code in no time. 
+If you want to become a front-end developer, you have to learn JavaScript. It is the programming language that every front-end developer must know. 
+You can also use JavaScript on the back-end using Node. Node is a run-time environment for executing JavaScript code outside of a browser. With Node and Express (a popular JavaScript framework), you can build back-end of web and mobile applications. 
+If you're looking for a crash course that helps you get started with JavaScript quickly, this course is for you. 
 
+⭐️TABLE OF CONTENT ⭐️
+
+00:00 What is JavaScript
+  run js code directly in browser
+04:41 Setting Up the Development Environment 
+  vsd, node(include JS runtime env)
+  e.g. node index.js 
+07:52 JavaScript in Browsers
+  F12 > console > directly type
+11:41 Separation of Concerns
+13:47 JavaScript in Node
+16:11 Variables
+    let name = 'Mosh'
+    console.log(name) // Mosh
+21:49 Constants
+    variable defined by "const" can't be reassigned > use "let" instead
+23:35 Primitive Types: str, number, boolean, undefined, null
+26:47 Dynamic Typing 
+  string name = "Josh"   vs   let name = "Josh"
+30:06 Objects
+  reference types: object, array, function 
+  let person = {name:"John", age:30}
+  console.log(person) // {name: 'John', age: 30}
+  console.log(person.name) //  John
+  typeof(person) // 'object'
+35:22 Arrays: list of objects
+39:41 Functions
+44:22 Types of Functions 
+
+
+=============================================================================
 JavaScript tutorial for beginners full course
-
 ⭐️Time Stamps⭐️
 #1  (00:00:00) JavaScript tutorial for beginners 🌐
 #2  (00:08:02) variables ❎
