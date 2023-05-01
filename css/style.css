@@ -1,5 +1,5 @@
 #box1{
-    width: 250px;
+    width: 600px;
     height:250px;
     background: red;
     font-size: 225px;
@@ -24,4 +24,14 @@
     60%{background-color: green;}
     80%{background-color: blue;}
     100%{background-color: purple;}
+}
+
+#box2{
+    width: 600px;
+    height:250px;
+    background: red;
+    font-size: 225px;
+    text-align: center;
+
+    animation: mySlide 5s linear 1s infinite running;
 }
