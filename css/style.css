@@ -1,0 +1,27 @@
+#box1{
+    width: 250px;
+    height:250px;
+    background: red;
+    font-size: 225px;
+    text-align: center;
+
+    animation: myColorChange 5s linear 1s infinite running;
+}
+
+#box1:hover{
+    animation: 5s linear 0s running mySlide;
+}  
+
+@keyframes mySlide {
+    from{margin-left: 100%;}
+    to{margin-left: 0%;}
+}
+
+@keyframes myColorChange {
+    0%{background-color: red;}
+    20%{background-color: orange;}
+    40%{background-color: yellow;}
+    60%{background-color: green;}
+    80%{background-color: blue;}
+    100%{background-color: purple;}
+}
